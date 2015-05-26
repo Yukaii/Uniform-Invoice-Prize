@@ -1,0 +1,197 @@
+---
+- year: 104
+  start_month: 3
+  end_month: 4
+  so_special_price: '46492032'
+  special_price: '66224881'
+  head_prices:
+  - 06216938
+  - 04296940
+  - '86442491'
+  additional_sixth_prices:
+  - '306'
+  - '403'
+  - '867'
+- year: 104
+  start_month: 1
+  end_month: 2
+  so_special_price: '60538935'
+  special_price: '50887710'
+  head_prices:
+  - '63856949'
+  - '39459262'
+  - '61944942'
+  additional_sixth_prices:
+  - '022'
+  - '355'
+  - 038
+- year: 103
+  start_month: 11
+  end_month: 12
+  so_special_price: '33516538'
+  special_price: '18290129'
+  head_prices:
+  - '43772058'
+  - '44517895'
+  - '45226602'
+  additional_sixth_prices:
+  - '901'
+  - '659'
+  - '034'
+  - '955'
+- year: 103
+  start_month: 9
+  end_month: 10
+  so_special_price: '22267127'
+  special_price: '31075480'
+  head_prices:
+  - '35396804'
+  - '15352117'
+  - '54709991'
+  additional_sixth_prices:
+  - '114'
+  - 068
+  - '476'
+  - '970'
+- year: 103
+  start_month: 7
+  end_month: 8
+  so_special_price: '16256820'
+  special_price: '33378146'
+  head_prices:
+  - '92040881'
+  - '99971012'
+  - '70124883'
+  additional_sixth_prices:
+  - '998'
+  - '741'
+  - '833'
+  - '732'
+- year: 103
+  start_month: 5
+  end_month: 6
+  so_special_price: '94761178'
+  special_price: '71959593'
+  head_prices:
+  - '36665808'
+  - '54185273'
+  - '18953944'
+  additional_sixth_prices:
+  - '347'
+  - '790'
+- year: 103
+  start_month: 3
+  end_month: 4
+  so_special_price: '54544448'
+  special_price: '70349798'
+  head_prices:
+  - '76086228'
+  - '38205733'
+  - '17173614'
+  additional_sixth_prices:
+  - '692'
+  - '326'
+- year: 103
+  start_month: 1
+  end_month: 2
+  so_special_price: '34231966'
+  special_price: '57287066'
+  head_prices:
+  - '29828540'
+  - '85564445'
+  - '39775689'
+  additional_sixth_prices:
+  - '478'
+  - '219'
+- year: 102
+  start_month: 11
+  end_month: 12
+  so_special_price: '79599463'
+  special_price: '65421688'
+  head_prices:
+  - '10823414'
+  - '52261288'
+  - '59201577'
+  additional_sixth_prices:
+  - 048
+  - '913'
+- year: 102
+  start_month: 9
+  end_month: 10
+  so_special_price: '46486534'
+  special_price: 06509701
+  head_prices:
+  - '73803836'
+  - '48342247'
+  - '12784009'
+  additional_sixth_prices:
+  - '316'
+  - '226'
+- year: 102
+  start_month: 7
+  end_month: 8
+  so_special_price: '71895847'
+  special_price: 04949941
+  head_prices:
+  - 04532693
+  - '52951166'
+  - '82155062'
+  additional_sixth_prices:
+  - '715'
+- year: 102
+  start_month: 5
+  end_month: 6
+  so_special_price: '40148354'
+  special_price: '64348046'
+  head_prices:
+  - '64782404'
+  - '88904036'
+  - '17250629'
+  additional_sixth_prices:
+  - '516'
+- year: 102
+  start_month: 3
+  end_month: 4
+  so_special_price: '13393774'
+  special_price: '25894576'
+  head_prices:
+  - '43792479'
+  - 01973003
+  - '71347425'
+  additional_sixth_prices:
+  - '997'
+- year: 102
+  start_month: 1
+  end_month: 2
+  so_special_price: '18623268'
+  special_price: '23322026'
+  head_prices:
+  - '55296725'
+  - '65713406'
+  - '44395947'
+  additional_sixth_prices:
+  - '436'
+- year: 101
+  start_month: 11
+  end_month: 12
+  so_special_price: '87165494'
+  special_price: 02818106
+  head_prices:
+  - '59105591'
+  - '35149832'
+  - '40131517'
+  additional_sixth_prices:
+  - '653'
+  - '106'
+- year: 101
+  start_month: 9
+  end_month: 10
+  so_special_price: '15719324'
+  special_price: '11661657'
+  head_prices:
+  - '64718986'
+  - '49313179'
+  - '29736314'
+  additional_sixth_prices:
+  - '843'
+  - '927'
